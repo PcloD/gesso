@@ -65,6 +65,14 @@
 		},
 
 		/**
+		 * Resizes the canvas.
+		 */
+		setSize: function(w, h) {
+			this.width = this.canvas.width = w;
+			this.height = this.canvas.height = h;
+		},
+
+		/**
 		 * Called when the canvas should be rendered. Override this to provide your own drawing code.
 		 */
 		onRender: function() {
