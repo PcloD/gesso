@@ -1,6 +1,6 @@
 # gesso
 
-In art, gesso is a white, paint-like substance used to prepare a canvas for painting.
+In the art world, gesso is a white, paint-like substance used to prepare a canvas for painting.
 
 The Gesso library prepares an HTML5 canvas for drawing and animating. Gesso can create a new canvas and add it to the DOM, or can be attached to an existing canvas.
 
